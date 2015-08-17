@@ -1,0 +1,15 @@
+pkgbase = ssdw
+	pkgdesc = An Script to count how much write of your SSD
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/yafengabc/ssdw
+	arch = any
+	license = GPLv3
+	depends = smartmontools
+	provides = ssdw
+	conflicts = ssdw
+	source = git://github.com/yafengabc/ssdw.git
+	md5sums = SKIP
+
+pkgname = ssdw
+
